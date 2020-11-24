@@ -13,7 +13,10 @@
   <p>Com tanto o servidor quanto a api do banco de dados estão rodando basta rodar o "front-end" que basicamente é uma api que consome o nosso servidor</p>
   <p>Dentro da pasta da API basta rodar o comando <code>yarn start</code> ou <code>npm start</code> vai de sua preferência</p> 
 
-#### Para alterar o front-end
-  <p> Dentro do servidor no IntellJ basta encontrar a pasta <code>screens</code> e alterar o seu conteúdo</p>
+### Para alterar o front-end
+  <p> Dentro do servidor no IntellJ basta encontrar a pasta <code>screens</code> e alterar o seu conteúdo claro seguindo todos os parametros do framework BEAGLE</p>
+  <p>Após a alteração pela parte do servidor então basta reiniciar a aplicação do servidor que a alteração já vai ser enviada pra API que está consumindo</p>
+  <p>Então basta atualizar a página que o conteúdo que você alterou vai mudar</p>
+ 
  
 
