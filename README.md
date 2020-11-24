@@ -9,7 +9,7 @@
 
   <p>Após a configuração do banco de dados você pode iniciar ele rodando o comando <code>node index.js</code></p>
   <p>Então teremos que inicializar o back-end pra isso eu recomento usar a IDE intelliJ</p>
-  <p>Dentro da intellJ basta seguir o caminho <code>src -> kotlin -> com.exemple.firstexemplebff</code> e rodar o arquivo <code>FirstExempleBffAplication.kt</p>
+  <p>Dentro da intellJ basta seguir o caminho <code>src -> kotlin -> com.exemple.firstexemplebff</code> e rodar o arquivo <code>FirstExempleBffAplication.kt</code></p>
   <p>Com tanto o servidor quanto a api do banco de dados estão rodando basta rodar o "front-end" que basicamente é uma api que consome o nosso servidor</p>
   <p>Dentro da pasta da API basta rodar o comando <code>yarn start</code> ou <code>npm start</code> vai de sua preferência</p> 
 
