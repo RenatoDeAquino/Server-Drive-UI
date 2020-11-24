@@ -10,7 +10,13 @@ const pool = new Pool({
 
 });
 
-
+    
+/*
+apartir daqui depende das rotas que você vai crirar e das tabelas que o seu banco de dados vai querer
+eu usei o conceito de promises mas de novo é completamente pessoal essa parte
+deixei como exemplo pra caso queiram implementar igual
+*/    
+/*
 const getInfos = () => {
     return new Promise(function(resolve, reject) {
       pool.query('SELECT * FROM info_users ORDER BY id ASC', (error, results) => {
@@ -49,3 +55,4 @@ const getInfos = () => {
     createInfos,
     deleteInfos,
   }
+*/
